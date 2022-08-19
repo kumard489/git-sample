@@ -45,5 +45,9 @@ public class DailyClassTask {
 
 
 	}
+	private void kumar() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
