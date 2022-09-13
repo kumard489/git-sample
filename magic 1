@@ -78,6 +78,18 @@
     System.out.println(b);
     
     
+    //dublicate in string
+    String s="chennai";
+    
+    for (int i = 0; i <s.length() ; i++) {
+        char[] ca = s.toCharArray();
+    for (int j = i+1; j <ca.length; j++) {
+        if (ca[i]==ca[j]) {
+	System.out.println(ca[j]);
+     }
+}
+    
+    
     
     
     
