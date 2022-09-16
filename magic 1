@@ -134,7 +134,8 @@ li.add(ch);
 			bb = c + bb;
 			j = j / 2;
 		}
-
+                int k = Integer.parseInt(aa, 2);
+		System.out.println(k);
 		System.out.println("binary number for a=  " + aa);
 		System.out.println("binary number for b=  " + bb);
 
